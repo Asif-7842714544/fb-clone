@@ -1,0 +1,38 @@
+.uploadSection{
+    height: 120px;
+    width: 600px;
+    border: 0px;
+    background-color: #eff2f5;
+    border-radius: 30px;
+
+}
+.upload-top{
+    display: flex;
+}
+.upload-img{
+margin-top: 15px;
+margin-left: 15px;
+}
+.upload-box{
+height: 40px;
+width: 480px;
+border: 0px;
+background-color: #eff2f5;
+border-radius: 30px;
+font-size: 16px;
+padding-left: 20px;
+margin: 15px ;
+}
+.upload-bottom{
+border-top: 1px solid #eff2f5;
+display: flex;
+margin-left: 60px;
+padding-top: 5px;
+}
+.upload-tabs{
+width: 150px;
+display: flex;
+}
+.upload-text{
+margin: 5px;
+}

@@ -1,0 +1,27 @@
+.mainpage-conatiner{
+    display: flex;
+    height: 650px;
+    background-color: #eff2f5;
+}
+.imagelayout-container{
+display: flex;
+margin: 15px;
+}
+.imagelayout-imglay{
+
+}
+.imagelayout-img{
+max-height: 35px;
+max-width: 35px;
+}
+.imagelayout-name{
+font-weight: 400;
+margin: 10px;
+font-size: 14px;
+}
+.middle-container{
+    margin-left: 50px !important;
+    overflow-y: scroll;
+    height: 650px;
+    max-width: 600px !important;
+}

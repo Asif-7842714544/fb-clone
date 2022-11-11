@@ -1,0 +1,14 @@
+.statusbar-container{
+    display: flex;
+    width: 600px;
+    overflow-x: scroll ;
+    overflow-y: hidden ;
+}
+.statusbar-status{
+height: 200px;
+width: 110px;
+margin-top: 20px;
+margin-right: 10px;
+border-radius: 15px;
+
+}
